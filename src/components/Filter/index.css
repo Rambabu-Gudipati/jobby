@@ -1,0 +1,25 @@
+.employ-class {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  list-style-type: none;
+}
+.filter-cont {
+  display: flex;
+  flex-direction: column;
+}
+.check-box {
+  display: flex;
+  flex-direction: row;
+}
+.filter-head {
+  color: white;
+  font-size: 20px;
+}
+.label {
+  color: white;
+  margin-left: 5px;
+}
+.line-filter {
+  width: 300px;
+}
